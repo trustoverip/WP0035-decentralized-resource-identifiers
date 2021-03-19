@@ -34,9 +34,9 @@ copyright: >-
   Projects, LLC is an affiliate of the Linux Foundation.
 
 # Navigation structure
-# nav:
-#  - Page 1: page-1.md
-#  - Page 2: page-2.md
+nav:
+- Introduction:
+    - 'Overview': 'index.md'
 
 # Theme configuration
 theme:
