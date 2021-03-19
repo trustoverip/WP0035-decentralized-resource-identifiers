@@ -136,7 +136,7 @@ Semantics: The ecosystem can supply examples, education, support, and semantic r
 
 
 
-* Blockchain/Distributed Ledger Technologies (DLT) [13][13]: Blockchain, and more broadly DLT, is an emerging technology that provides a decentralized ‘write only’ ledger to record data events and identifiers. In this way, blockchain provides a method of ensuring the provenance of data via temporality (time stamps), and trustworthiness as new information can only be appended, not overwritten, to form a resilient and immutable record.
+* Blockchain/Distributed Ledger Technologies (DLT) [11][11]: Blockchain, and more broadly DLT, is an emerging technology that provides a decentralized ‘write only’ ledger to record data events and identifiers. In this way, blockchain provides a method of ensuring the provenance of data via temporality (time stamps), and trustworthiness as new information can only be appended, not overwritten, to form a resilient and immutable record.
 
 
 
@@ -152,6 +152,4 @@ A research identifier ecosystem taking advantage of new technologies such as dec
 [8]: https://iscc.codes/
 [9]: https://trustoverip.org/
 [10]: https://ceramic.network/
-[11]: http://www.cm2bl.org/
-[12]: http://parts.igem.org/Catalog
-[13]: https://blockchain.ieee.org/standards
+[11]: https://blockchain.ieee.org/standards
